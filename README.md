@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Full_Stack_Developer-8B5CF6?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity_Enthusiast-EF4444?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/IIT_Chicago_Certified-000000?style=flat-square&logo=iit&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/IIT_Chicago_Certified-000000?style=flat-square&logo=iit&logoColor=white" /> -->
 </p>
 
 ---
@@ -43,4 +43,3 @@ I am a passionate **Full Stack Developer** and **Cybersecurity Enthusiast** base
 
 * **LinkedIn:** [eldrin-johnson](https://www.linkedin.com/in/eldrin-johnson)
 * **Instagram:** [@_e_ldrin](https://www.instagram.com/_e_ldrin/)
-* **Credly Certification:** [Verify Badge](https://www.credly.com/badges/c4cca72e-6446-45e3-a62f-35f994c61b11/public_url)
