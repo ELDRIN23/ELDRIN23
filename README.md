@@ -22,7 +22,7 @@ I am a passionate **Full Stack Developer** and **Cybersecurity Enthusiast** base
 | Category | Technologies / Tools |
 | :--- | :--- |
 | **Frontend** | JavaScript (ES6+), React, Next.js, TypeScript, Tailwind CSS |
-| **Backend & Databases** | Node.js, Express.js, MongoDB, SQL, Python, Java |
+| **Backend & Databases** | Node.js, Express.js, MongoDB, SQL, Python |
 | **DevOps & Tools** | Docker, Git & GitHub, REST APIs, Burp Suite, CRUD Architecture |
 
 ---
