@@ -40,6 +40,3 @@ I am a passionate **Full Stack Developer** and **Cybersecurity Enthusiast** base
 ---
 
 ### 📫 Connect With Me
-
-* **LinkedIn:** [eldrin-johnson](https://www.linkedin.com/in/eldrin-johnson)
-* **Instagram:** [@_e_ldrin](https://www.instagram.com/_e_ldrin/)
